@@ -3,5 +3,5 @@
 
 ## Table Of Content
 
-* Info.md - Info About DaloZ3r
+* [Info.md](https://github.com/iSUCKatDISCORDjs/Stuff/blob/main/Info.md) - Info About DaloZ3r
 * Soon:tm: 

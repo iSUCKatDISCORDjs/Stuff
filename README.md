@@ -1,2 +1,2 @@
 # Stuff
-Just [Stuff](https://dsc.gg/defaultt)
+[Just Stuff](https://dsc.gg/defaultt)

@@ -3,5 +3,5 @@
 
 ## Table Of Content
 
-* Soon:tm:
+* Info.md - Info About DaloZ3r
 * Soon:tm: 
